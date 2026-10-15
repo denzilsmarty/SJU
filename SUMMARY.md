@@ -1,57 +1,115 @@
 # Summary
 
-## Historical Foundations and Evolution of Jesuit Education
+## Ignatian Pedagogical Paradigm: Foundations, Principles, and Implementation
 
-* [Historical Foundations and Evolution of Jesuit Education (overview)](pages/historical-foundations-jesuit-education.md)
-* [The First Jesuit College and the Founding Vision (1540s–1550s)](pages/founding-and-early-institutions.md)
-* [The Ratio Studiorum: Systematizing Jesuit Curriculum (1599)](pages/ratio-studiorum.md)
-* [Pedro Arrupe and the Turn Toward Justice (1973–1980)](pages/arrupe-and-justice-turn.md)
-* [ICAJE and the Modern Framework: Characteristics (1986) and the IPP (1993)](pages/icaje-characteristics-and-ipp.md)
-* [General Congregation 34 and the Mission of Jesuit Higher Education (1995)](pages/general-congregation-34.md)
-* [Peter-Hans Kolvenbach: Measuring Who Students Become (2000–2001)](pages/kolvenbach-addresses.md)
-* [Adolfo Nicolás on Depth and the Globalization of Superficiality (2010)](pages/nicolas-and-superficiality.md)
-* [Human Excellence, Arturo Sosa, and Ongoing Renewal (2015–2019)](pages/human-excellence-and-sosa.md)
-* [The Four-Tier Source Hierarchy and the Primary-Source Corpus for IPP Work](pages/source-hierarchy-and-corpus.md)
+* [Ignatian Pedagogical Paradigm: Foundations, Principles, and Implementation (overview)](pages/ignatian-pedagogical-paradigm.md)
+* [Historical Foundations: From Spiritual Exercises to Modern Pedagogy](pages/historical-foundations.md)
+* [The Five-Step Methodology: Context, Experience, Reflection, Action, Evaluation](pages/five-step-methodology.md)
+* [Core Principles: Cura Personalis, Magis, and Integrated Human Development](pages/core-principles.md)
+* [Practical Classroom Implementation and Teaching Strategies](pages/practical-classroom-implementation.md)
+* [Cura Personalis in Action: Personalized Attention and Individual Growth](pages/cura-personalis-in-practice.md)
+* [Solidarity with the Marginalized: Faith, Justice, and Service](pages/solidarity-justice-mission.md)
+* [Integration with Modern Technologies and Artificial Intelligence](pages/modern-technologies-ai.md)
+* [Institutional Leadership and Faculty Formation Programs](pages/institutional-leadership-programs.md)
+* [Global Applications: Ignatian Pedagogy Across Jesuit Institutions](pages/global-jesuit-examples.md)
 
-## Core Principles and Five Dynamics of the Ignatian Pedagogical Paradigm
+## Jesuit Educational History, Constitutions, and Institutional Structure
 
-* [Core Principles and Five Dynamics of the Ignatian Pedagogical Paradigm (overview)](pages/core-principles-five-dynamics-ipp.md)
-* [The Ignatian Pedagogical Paradigm: Overview and Governing Concepts](pages/ipp-overview-and-governing-concepts.md)
-* [Context: The First Dynamic of the IPP](pages/context-dynamic.md)
-* [Experience: The Second Dynamic of the IPP](pages/experience-dynamic.md)
-* [Reflection: The Third Dynamic of the IPP](pages/reflection-dynamic.md)
-* [Action and Evaluation: The Fourth and Fifth Dynamics of the IPP](pages/action-and-evaluation-dynamics.md)
-* [Faith, Justice, and Pluralism as Governing Principles of the IPP](pages/faith-justice-and-pluralism-in-the-ipp.md)
-* [The Four Cs and Whole-Person Formation](pages/four-cs-and-whole-person-formation.md)
+* [Jesuit Educational History, Constitutions, and Institutional Structure (overview)](pages/jesuit-education-history-constitutions-structure.md)
+* [Ignatius of Loyola and the Founding of the Society of Jesus](pages/ignatius-loyola-and-founding-of-society.md)
+* [The Constitutions of the Society of Jesus: Part IV and Educational Framework](pages/jesuit-constitutions-part-four.md)
+* [The Ratio Studiorum: Jesuit Pedagogical System and Curriculum](pages/ratio-studiorum-curriculum.md)
+* [Institutional Structure and Governance of Jesuit Colleges](pages/jesuit-college-institutional-structure.md)
+* [History of Jesuit Education from 1548 to the Modern Era](pages/jesuit-education-history-development.md)
+* [Scholastic Formation: Admission, Health, Spiritual Life, and Academic Requirements](pages/scholastic-admission-and-curriculum.md)
+* [Ignatian Pedagogy and Contemporary Educational Principles](pages/ignatian-pedagogy-principles.md)
+* [Contemporary Jesuit Colleges and Universities in the United States and Global Network](pages/modern-jesuit-colleges-universities.md)
+* [Characteristics of Jesuit Education and Key Pedagogical Documents](pages/jesuit-education-characteristics-documents.md)
 
-## Institutional Application and Course Design at SJU
+## Mission, Charism, and Identity of Jesuit Universities
 
-* [Institutional Application and Course Design at SJU (overview)](pages/institutional-application-course-design-sju.md)
-* [The IPP Course Design Framework and Design Canvas](pages/ipp-course-design-framework.md)
-* [Applying the IPP Across Disciplines: Humanities, Sciences, Business, Health, and the Arts](pages/ipp-disciplinary-applications.md)
-* [Sample IPP Learning Cycle: Allocating a Scarce Health Resource](pages/sample-learning-cycle-health-resource.md)
-* [Program-Level Coherence: Mapping IPP Across a Curriculum](pages/program-level-coherence-mapping.md)
-* [Co-Curricular Applications: Advising, Ministry, Athletics, and Career Development](pages/cocurricular-and-relational-applications.md)
-* [IPP in Graduate, Online, Adult, and Continuing Education Programs](pages/graduate-online-continuing-education.md)
-* [Inclusion, Accessibility, and Safeguarding in IPP Course Design](pages/inclusion-accessibility-safeguarding.md)
-* [IPP and Generative AI: Pedagogical Design in an AI-Shaped University](pages/ipp-ai-shaped-university.md)
+* [Mission, Charism, and Identity of Jesuit Universities (overview)](pages/jesuit-university-mission-charism-identity.md)
+* [Ignatian Spirituality and the Spiritual Exercises](pages/ignatian-spirituality-foundations.md)
+* [Service of Faith and Promotion of Justice in Higher Education](pages/faith-justice-mission.md)
+* [The Intellectual Apostolate and Learned Ministry](pages/intellectual-apostolate-tradition.md)
+* [Navigating Globalization and Contemporary Challenges](pages/contemporary-challenges-globalization.md)
+* [Reconciliation, Hope, and Community Transformation](pages/reconciliation-transformation.md)
+* [Lay Collaboration and Institutional Partnerships](pages/lay-collaboration-partnerships.md)
+* [Humanist Education and Formation of Global Citizens](pages/humanist-education-formation.md)
+* [The International Association of Jesuit Universities and Collective Vision](pages/iaju-vision-leadership.md)
+* [Historical Development and Preservation of Jesuit University Identity](pages/historical-development-identity.md)
 
-## Governance, Implementation Roadmap, and Institutional Commitments
+## Justice, Social Apostolate, and Formation of Conscience
 
-* [Governance, Implementation Roadmap, and Institutional Commitments (overview)](pages/governance-implementation-roadmap.md)
-* [Three-Phase Implementation Roadmap](pages/three-phase-implementation-roadmap.md)
-* [Eight Institutional Commitments to the IPP](pages/eight-institutional-commitments.md)
-* [Cross-Functional Steward Model and Editorial Group](pages/cross-functional-steward-model.md)
-* [IPP Rubric Governance Guardrails and Misuse Prevention](pages/ipp-rubric-governance-guardrails.md)
-* [Review Cycle, Version Control, and Source-of-Truth Maintenance](pages/review-cycle-and-version-control.md)
-* [IPP Alignment with SJU Mission and Strategic Plan](pages/ipp-alignment-with-sju-strategic-plan.md)
-* [Faculty and Staff Formation, Recognition, and Resource Alignment](pages/faculty-staff-formation-and-recognition.md)
-* [Institutional Statement and Public-Facing IPP Primer](pages/institutional-statement-and-public-primer.md)
+* [Justice, Social Apostolate, and Formation of Conscience (overview)](pages/justice-social-apostolate-formation.md)
+* [Jesuit Institutional Commitment to Social Justice](pages/jesuit-commitment-to-social-justice.md)
+* [Faith That Does Justice: Jesuit Educational Mission](pages/faith-doing-justice-education.md)
+* [Service to the Poor and Vulnerable](pages/service-poor-vulnerable.md)
+* [Justice-Oriented Research and University Mission](pages/justice-oriented-research.md)
+* [Ecological Care and Stewardship of Creation](pages/ecological-care-creation.md)
+* [Universal Apostolic Preferences and Mission Renewal](pages/universal-apostolic-preferences.md)
+* [Formation of Conscience-Driven Leaders](pages/formation-conscience-leaders.md)
+* [Global Networks and Collaborative Initiatives](pages/global-networks-collaboration.md)
+* [Witness and Martyrdom in the Pursuit of Justice](pages/witness-martyrdom-social-justice.md)
 
-## Inclusion, Academic Freedom, Safeguarding, and AI Integration
+## Formation, Leadership Development, and Institutional Implementation
 
-* [Inclusion, Academic Freedom, Safeguarding, and AI Integration (overview)](pages/inclusion-freedom-safeguarding-ai.md)
-* [Universal Design and Inclusion in the IPP](pages/universal-design-and-inclusion-in-ipp.md)
-* [Safeguarding Policies: Separating Reflection from Therapy](pages/safeguarding-reflection-and-disclosure-policies.md)
-* [Academic Freedom, Viewpoint Diversity, and Pluralism in the IPP](pages/academic-freedom-and-pluralism.md)
-* [Applying the IPP to Generative AI Contexts](pages/ai-and-generative-tools-in-ipp.md)
+* [Formation, Leadership Development, and Institutional Implementation (overview)](pages/formation-leadership-development-implementation.md)
+* [Jesuit Formation Foundations and Whole-Person Development](pages/jesuit-formation-foundations.md)
+* [The Ignatian Pedagogical Paradigm and Teaching Practice](pages/ignatian-pedagogical-paradigm.md)
+* [AJCU Ignatian Pedagogy Certificate Program and Faculty Development](pages/ajcu-ignatian-pedagogy-certificate.md)
+* [Formation Programs and Practices Across U.S. Jesuit Institutions](pages/formation-across-us-jesuit-universities.md)
+* [Cardoner Program and Immersive Formation Experiences](pages/cardoner-program-immersion-formation.md)
+* [Leadership Development Programs for Emerging and Senior Leaders](pages/leadership-development-emerging-leaders.md)
+* [Mission Priority Examen and Institutional Alignment](pages/mission-priority-examen-implementation.md)
+* [AJCU Formation Program Compendium and Collaborative Networks](pages/formation-program-compendium-network.md)
+* [Jesuit Education Mission, Identity, and Universal Apostolic Preferences](pages/jesuit-education-mission-principles.md)
+
+## Mission Priority Examen and Institutional Assessment Processes
+
+* [Mission Priority Examen and Institutional Assessment Processes (overview)](pages/mission-priority-examen-assessment.md)
+* [Mission Priority Examen: Overview and Historical Development](pages/mpe-overview-history.md)
+* [Governance Framework and Institutional Structure](pages/mpe-governance-framework.md)
+* [Mission Priority Examen: Process and Procedural Steps](pages/mpe-procedural-steps.md)
+* [Guiding Framework: Characteristics of Jesuit Higher Education](pages/mpe-guiding-framework.md)
+* [Case Study: Marquette University Mission Priority Examen](pages/marquette-mpe-case-study.md)
+* [Comparative Case Studies: Multiple Jesuit Universities](pages/other-institution-case-studies.md)
+* [Mission Assessment and Regional Accreditation Integration](pages/accreditation-mission-assessment.md)
+* [Mission Priorities: Implementation and Institutional Action](pages/mission-priorities-implementation.md)
+* [Stakeholder Engagement and Community Involvement in MPE](pages/stakeholder-engagement-community.md)
+
+## Governance, Leadership, and Apostolic Care in Jesuit Institutions
+
+* [Governance, Leadership, and Apostolic Care in Jesuit Institutions (overview)](pages/governance-leadership-apostolic-care.md)
+* [Apostolic Governance Structures and Leadership Roles](pages/apostolic-governance-structures.md)
+* [Cura Personalis and Cura Apostolica: Ignatian Care Concepts](pages/cura-personalis-apostolica.md)
+* [Leadership and Governance in Jesuit Colleges and Universities](pages/jesuit-college-university-leadership.md)
+* [Catholic and Jesuit Mission Identity in Higher Education](pages/catholic-jesuit-mission-identity.md)
+* [Collaboration and Governance Among Jesuit Institutions](pages/institutional-collaboration-governance.md)
+* [Mission Priority Examen and Self-Evaluation Processes](pages/mission-examen-self-evaluation.md)
+* [Jesuit Presence and Leadership Development in Institutional Culture](pages/jesuit-presence-institutional-culture.md)
+* [Universal Apostolic Preferences and Strategic Institutional Direction](pages/universal-apostolic-preferences.md)
+
+## Saint Joseph's University and Institutional Strategic Initiatives
+
+* [Saint Joseph's University and Institutional Strategic Initiatives (overview)](pages/sju-strategic-initiatives.md)
+* [Founding History and Mission Identity](pages/founding-history-mission.md)
+* [Strategic Plan 2026 and Academic Priorities](pages/strategic-plan-2026.md)
+* [Initiative for Human Formation in an Age of AI](pages/human-formation-ai-initiative.md)
+* [Ignatian Pedagogy and Mission Week](pages/ignatian-pedagogy-mission-week.md)
+* [Mission Priority Examen Process Across Jesuit Universities](pages/mission-priority-examen.md)
+* [Jesuit Universities as Agents of Social Transformation](pages/jesuit-transformation-network.md)
+* [International Association of Jesuit Universities and Global Perspectives](pages/international-jesuit-educational-initiatives.md)
+* [Campus Development and Physical Infrastructure](pages/campus-development-expansion.md)
+
+## Association of Jesuit Colleges and Universities and Network Initiatives
+
+* [Association of Jesuit Colleges and Universities and Network Initiatives (overview)](pages/ajcu-network-initiatives.md)
+* [AJCU Member and Associate Institutions](pages/member-institutions.md)
+* [Deepening Jesuit and Catholic Identity at Member Institutions](pages/jesuit-catholic-identity.md)
+* [Grace Center for Faith and Community at Le Moyne College](pages/grace-center-faith-community.md)
+* [Carroll College Strategic Plan: Better Together Initiative](pages/better-together-strategic-plan.md)
+* [Scholarly Resources on Ignatian Pedagogy and Jesuit Education](pages/ignatian-pedagogy-scholarship.md)
+* [Ignatian Formation and Teaching Resources Across the Network](pages/ignatian-formation-resources.md)
+* [Regional Collaborative Efforts and Network Advancement](pages/collaborative-regional-initiatives.md)
+* [Jesuit Educational Mission and Identity Formation](pages/educational-mission-identity.md)
